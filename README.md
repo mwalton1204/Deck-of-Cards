@@ -1,2 +1,2 @@
 # Deck of Cards
-Standard deck of playing cards implementation in C++
+Standard deck of playing cards implemented in C++
